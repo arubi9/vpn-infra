@@ -466,3 +466,10 @@ wireguard_configs:
     PORT: 51871
     PEER_PUBLIC_KEY: 4rjQfQfy8xWIa00PXVh+hcyBsiaaG2dO9+LH9peJnjE=
     INTERFACE_ADDRESS: "10.70.250.100/31"
+
+    # For Avi Laptop
+  - NAME: avilaptop
+    PORT: 51872
+    PEER_PUBLIC_KEY: EDmPLSxJ0cAU8/86AD11ojnYdtyotkOfASU62Seqq2c=
+    INTERFACE_ADDRESS: "10.70.250.102/31"
+
